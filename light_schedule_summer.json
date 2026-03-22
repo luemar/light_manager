@@ -1,0 +1,10 @@
+{
+  "check_interval": 300,
+  "threshold": 120,
+  "hysteresis": 15,
+  "main_off": "21:45",
+  "gallery_on": "20:55",
+  "gallery_off": "23:45",
+  "aux_on": "21:35",
+  "aux_off": "21:50"
+}

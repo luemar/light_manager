@@ -1,0 +1,14 @@
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.lesshst
+.local/
+.profile
+.sudo_as_admin_successful
+.xsession-errors
+Bookshelf/
+*.log
